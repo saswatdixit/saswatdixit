@@ -223,7 +223,6 @@ Exploring ways to contribute to projects, learn from experienced developers, and
 <a href="https://www.linkedin.com/in/saswatdixit/">🔵 LinkedIn</a>
 
 </p>
----
 
 # A THOUGHT
 
