@@ -228,16 +228,6 @@ It's to eventually work on **challenging problems, large-scale systems, and tech
 
 ---
 
-# CONTRIBUTIONS
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saswatdixit&hide_border=true&area=true" width="95%">
-
-</p>
-
----
-
 # CONNECT
 
 <p align="center">
