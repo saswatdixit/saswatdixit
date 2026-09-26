@@ -204,20 +204,6 @@ Exploring ways to contribute to projects, learn from experienced developers, and
 
 ---
 
-# DREAM DESTINATIONS
-
-```text
-Google        Microsoft
-NVIDIA        OpenAI
-Meta
-```
-
-The goal isn't simply to work for a big company.
-
-It's to eventually work on **challenging problems, large-scale systems, and technology that matters.**
-
----
-
 # GITHUB STATS
 
 <p align="center">
