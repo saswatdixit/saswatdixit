@@ -2,7 +2,7 @@
 
 ### `Code. Learn. Build. Repeat.`
 
-**B.Tech Computer Science Student @ Silicon University  **
+**B.Tech Computer Science Student @ Silicon University**
 
 > Building useful things with code, exploring AI, and learning how technology works from the ground up.
 
