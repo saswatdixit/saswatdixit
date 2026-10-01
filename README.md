@@ -1,257 +1,151 @@
-# SASWAT DIXIT
-
-### `Code. Learn. Build. Repeat.`
-
-**B.Tech Computer Science Student @ Silicon University**
-
-> Building useful things with code, exploring AI, and learning how technology works from the ground up.
-
----
-
-## ABOUT ME
-
-I'm **Saswat Dixit**, a Computer Science student from India passionate about software development, problem solving, and emerging technologies.
-
-I'm currently exploring **Artificial Intelligence, Machine Learning, Deep Learning, Full Stack Development, and Data Structures & Algorithms**.
-
-I learn best by building — turning ideas into projects, experimenting with different technologies, breaking things, fixing them, and improving along the way.
-
----
-
-## CURRENTLY LEARNING
-
-```text
-01  Data Structures & Algorithms
-02  Artificial Intelligence
-03  Machine Learning & Deep Learning
-04  Full Stack Development
-05  Advanced Python
-```
-
----
-
-## 2026 GOALS
-
-`01` Solve **500+ DSA problems**
-`02` Build meaningful **AI/ML projects**
-`03` Strengthen backend development
-`04` Contribute to open source
-`05` Become a significantly better problem solver
-
-> Progress over perfection.
-
----
-
-## TECH STACK
-
-### PROGRAMMING
-
-`Python` `Java` `C` `JavaScript` `HTML5` `CSS3`
-
-### AI / MACHINE LEARNING
-
-`NumPy` `Pandas` `Matplotlib` `Scikit-Learn`
-`TensorFlow` `PyTorch` `OpenCV`
-
-### WEB DEVELOPMENT
-
-`React` `TypeScript` `JavaScript` `Vite`
-`Responsive Design` `REST APIs`
-
-### TOOLS & PLATFORMS
-
-`Git` `GitHub` `VS Code` `Linux`
-`Docker` `AWS` `Vercel` `Figma` `Canva`
-
----
-
-## WHAT I LIKE TO BUILD
-
-I enjoy building projects that combine **functionality, simplicity, and good design**.
-
-My projects are often experiments in learning something new, solving a practical problem, or simply creating something I think would be fun to use.
-
----
-
-# FEATURED PROJECTS
-
-## 01 — Acadelytics
-
-### Academic Companion for University Students
-
-A simple academic utility platform designed to make **SGPA and CGPA calculations** faster and easier for students.
-
-**Features**
-
-`+` SGPA calculator
-`+` CGPA calculator
-`+` Credit-based calculations
-`+` Grade and marks input
-`+` Academic utilities
-`+` Responsive interface
-`+` Student-focused UX
-
-**↗ Live:** [acadelytics.vercel.app](https://acadelytics.vercel.app/)
-
----
-
-## 02 — Acadelytics v2
-
-### A New Generation of Acadelytics
-
-A redesigned version of Acadelytics focused on improved architecture, cleaner UI, better performance, and an expanded academic experience.
-
-**Focus**
-
-`◆` Modern architecture
-`◆` Improved UI/UX
-`◆` Better performance
-`◆` Expanded academic tools
-`◆` Responsive experience
-
-**↗ Live:** [acadelytics-v2-0.vercel.app](https://acadelytics-v2-0.vercel.app/)
-
----
-
-## 03 — AtomVerse
-
-### Explore the Periodic Table Differently
-
-An interactive periodic table designed to make learning about chemical elements more engaging through animation and visual interaction.
-
-**Features**
-
-`+` Interactive periodic table
-`+` Element information
-`+` Animated interactions
-`+` Visual exploration
-`+` Responsive interface
-
-**↗ Live:** [atom-verse.vercel.app](https://atom-verse.vercel.app/)
-
----
-
-## 04 — AtomVerse v2
-
-### A Refined AtomVerse Experience
-
-A redesigned version focused on cleaner architecture, smoother interactions, improved performance, and a more immersive interface.
-
-**Focus**
-
-`◆` Refined architecture
-`◆` Modern UI
-`◆` Improved interactions
-`◆` Performance improvements
-`◆` Responsive design
-
-**↗ Live:** [atom-verse-v2-0.vercel.app](https://atom-verse-v2-0.vercel.app/)
-
----
-
-## 05 — Tetris
-
-### A Minimal Retro Tetris Experience
-
-A browser-based Tetris game combining classic gameplay with a **minimal retro-inspired visual style**.
-
-Built to work across desktop and mobile with a focus on responsive gameplay and simple, intuitive controls.
-
-**Features**
-
-`+` Classic Tetris gameplay
-`+` Multiple difficulty levels
-`+` Real-time score tracking
-`+` High-score tracking
-`+` Next-piece preview
-`+` Keyboard controls
-`+` Mobile touch controls
-`+` Responsive design
-`+` Game-over & restart system
-`+` Screenshot sharing
-
-**Mobile controls**
-
-```text
-                ↻
-
-           ←    ↓    →
-```
-
-The visual direction takes inspiration from **minimal Japanese retro design** — restrained typography, simple geometry, nostalgic elements, and a clean interface without unnecessary visual noise.
-
-**↗ Live:** [tetris-snowy-theta.vercel.app/](https://tetris-snowy-theta.vercel.app/)
-
----
-
-# CURRENTLY BUILDING
-
-### `AI / ML`
-
-Learning the fundamentals of intelligent systems and building practical projects to understand AI beyond theory.
-
-### `DSA`
-
-Improving problem-solving ability through consistent practice and implementation.
-
-### `Full Stack Development`
-
-Learning how complete applications are designed, developed, deployed, and maintained.
-
-### `Open Source`
-
-Exploring ways to contribute to projects, learn from experienced developers, and become part of the developer community.
-
----
-
-# GITHUB STATS
+<h1 align="center">SASWAT DIXIT</h1>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatdixit&hide_border=true&theme=default" height="165">
-
+  <code>Code. Learn. Build. Repeat.</code>
 </p>
 
----
-
-# CONNECT
-
 <p align="center">
-
-<a href="https://github.com/saswatdixit">⚫ GitHub</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saswatdixit/">🔵 LinkedIn</a>
-
+  <img
+    src="output/bonsai-growth.gif"
+    width="384"
+    alt="My Git Bonsai"
+  />
 </p>
-
-# A THOUGHT
-
-> **"Jack of all trades, master of none, but oftentimes better than master of one."**
-
-I don't want to restrict myself to one technology.
-
-I want to understand different areas of computing, build across disciplines, and eventually become exceptionally good at **solving problems**.
-
----
-
-<p align="center">
-
-**Code. Learn. Build. Repeat.**
 
 <br>
 
-七転び八起き
+---
 
-*Nana korobi ya oki* — **"Fall seven times, stand up eight."**
+<div align="center">
 
-</p>
+<h3>TECH STACK</h3>
+
+<sub><b>PROGRAMMING</b></sub><br>
+<code>Python</code>
+<code>Java</code>
+<code>C</code>
+<code>JavaScript</code>
+<code>HTML5</code>
+<code>CSS3</code>
+
+<br><br>
+
+<sub><b>AI / MACHINE LEARNING</b></sub><br>
+<code>NumPy</code>
+<code>Pandas</code>
+<code>Matplotlib</code>
+<code>Scikit-Learn</code>
+<code>TensorFlow</code>
+<code>PyTorch</code>
+<code>OpenCV</code>
+
+<br><br>
+
+<sub><b>WEB DEVELOPMENT</b></sub><br>
+<code>React</code>
+<code>TypeScript</code>
+<code>JavaScript</code>
+<code>Vite</code>
+<code>Responsive Design</code>
+<code>REST APIs</code>
+
+<br><br>
+
+<sub><b>TOOLS & PLATFORMS</b></sub><br>
+<code>Git</code>
+<code>GitHub</code>
+<code>VS Code</code>
+<code>Linux</code>
+<code>Docker</code>
+<code>AWS</code>
+<code>Vercel</code>
+<code>Figma</code>
+<code>Canva</code>
+
+</div>
 
 ---
 
+<div align="center">
+
+<h3>CONTRIBUTIONS</h3>
+
+<br>
+
+<!-- GitHub Streak -->
+
 <p align="center">
-
-### Thanks for visiting.
-
-**Saswat Dixit · B.Tech CSE · Builder · Learner**
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=saswatdixit&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakNum=F0F6FC&currStreakLabel=3FB950&sideNums=F0F6FC&sideLabels=8B949E&dates=8B949E&stroke=30363D&timezone=Asia%2FKolkata"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=saswatdixit&hide_border=true&background=FFFFFF&ring=2DA44E&fire=2DA44E&currStreakNum=1F2328&currStreakLabel=2DA44E&sideNums=1F2328&sideLabels=656D76&dates=656D76&stroke=D0D7DE&timezone=Asia%2FKolkata"
+    />
+    <img
+      src="https://streak-stats.demolab.com/?user=saswatdixit&hide_border=true&background=FFFFFF&ring=2DA44E&fire=2DA44E&currStreakNum=1F2328&currStreakLabel=2DA44E&sideNums=1F2328&sideLabels=656D76&dates=656D76&stroke=D0D7DE&timezone=Asia%2FKolkata"
+      alt="GitHub Contribution Streak"
+    />
+  </picture>
 </p>
+
+<br>
+
+<!-- GitHub Contribution Snake -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/saswatdixit/saswatdixit/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/saswatdixit/saswatdixit/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/saswatdixit/saswatdixit/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="700"
+    />
+  </picture>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>ABOUT ME</h3>
+
+<p>
+I'm a B.Tech CSE student who enjoys building software, solving problems,
+and exploring AI/ML. Right now I'm focused on DSA, development, and
+getting better at AI/ML. I learn best by building, so most of what I
+study ends up as a project.
+</p>
+
+<br>
+
+<!-- Profile Visitor Counter -->
+
+<img
+  src="https://komarev.com/ghpvc/?username=saswatdixit&label=VISITORS&color=2ea44f&style=flat-square"
+  alt="Profile Visitors"
+/>
+
+<br><br>
+
+<p>
+  <i>
+    “Jack of all trades, master of none,<br>
+    but oftentimes better than master of one.”
+  </i>
+</p>
+
+<br>
+
+</div>
