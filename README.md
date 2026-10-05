@@ -82,8 +82,8 @@ study ends up as a project.
 
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=saswatdixit&label=VISITORS&color=2ea44f&style=flat-square"
-    alt="Profile Visitors"
+    src="https://YOUR-PROJECT.deno.net/badge/saswatdixit?type=unique&label=UNIQUE+VISITORS&color=green"
+    alt="Unique Visitors"
   >
 </p>
 
