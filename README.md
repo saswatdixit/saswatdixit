@@ -82,7 +82,7 @@ study ends up as a project.
 
 <p>
   <img
-    src="https://YOUR-PROJECT.deno.net/badge/saswatdixit?type=unique&label=UNIQUE+VISITORS&color=green"
+    src="https://profile-views-anmbcjw1ey2b.saswatdixit.deno.net/badge/saswatdixit?type=unique&label=VISITORS"
     alt="Unique Visitors"
   >
 </p>
